@@ -7,7 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/MenuScene.unity
-    guid: 60ec7a0c995c61244a253084f7f9be20
+    guid: 69c9d8c72b4f34347988bdefee2b5c4f
   - enabled: 1
     path: Assets/Scenes/CinziaScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
